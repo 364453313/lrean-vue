@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>{{school}}</h3>
+    <h3>学校：{{school}}</h3>
     <button @click="showName">展示</button>
   </div>
 </template>

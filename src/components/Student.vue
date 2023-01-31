@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>{{student}}</h3>
+    <h3>名字：{{student}}</h3>
   </div>
 </template>
 
